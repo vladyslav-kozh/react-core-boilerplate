@@ -1,0 +1,6 @@
+export {AuthPage} from './AuthPage'
+export * from './redux/AuthRedux'
+export * from '../../../init/axios/mocks/mockAuth'
+export * from './AuthPage'
+export * from './components/Logout'
+export * from './AuthInit'
