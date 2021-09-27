@@ -1,2 +1,2 @@
 # react-core-boilerplate
-net core 5 react project template
+React ASP.NET Core Template with redux saga is a starting template for building universal React web applications with ASP.NET Core 5. This project is ready to go after install. React ASP.NET Core Template is excellent choice for small and large size projects. The project contains a fake authorization system and mocks, so you can easy update it. React app created with hooks and redux saga.
